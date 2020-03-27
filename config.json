@@ -1,0 +1,19 @@
+{
+    "account_name": "Your-Account-Name",
+    "steem_node": "https://api.steemit.com",
+    "private_posting_key": "YOUR-KEY",
+    "private_active_key": "YOUR-KEY",
+    "accepted_currencies": [
+        "SBD", "STEEM"
+    ],
+    "min_bid": "0.01",
+    "max_bid": "1.00",
+    "max_post_age": 144,
+    "memo_messages": {
+        "invalid_bid": "The sent bid is invalid!",
+        "invalid_currency": "The sent currency is invalid!",
+        "post_to_old": "The post is too old for upvoting it!",
+        "invalid_memo": "The memo you sended is invalid!"
+
+    }
+}
