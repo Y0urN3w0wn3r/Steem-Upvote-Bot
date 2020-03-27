@@ -117,8 +117,7 @@ function vote(vote, callback) {
             return;
         }
 
-        sendComment(vote);
-
+        
         if (callback) {
             callback();
         }
